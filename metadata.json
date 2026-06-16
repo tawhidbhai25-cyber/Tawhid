@@ -1,0 +1,6 @@
+{
+  "name": "Hacker Launcher Prank",
+  "description": "A fun and dramatic custom hacker-themed Home Launcher prank with beautiful binary scan animations, real terminal logs, and system app tray support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
